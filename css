@@ -1,0 +1,42 @@
+
+header {
+    background-color: darkkhaki;
+    padding: 18px;
+}
+header a {
+    background-color: none;
+    border-radius: 1488px;
+    color: greenyellow
+} 
+h1 {
+    text-align: center;
+}
+footer {
+    background: #1488;
+}
+footer p {
+    background: lightyellow;
+}
+main p {
+    background-color: white;
+    border-radius: 10px;
+    text-decoration: none;
+}
+main h2 {
+    background-color: lightyellow;
+}
+
+h2 {
+    text-align: center;
+}
+main p {
+    font-size: 20px;
+}
+.ee {
+    background-color: rgb(160, 74, 74);
+    border-radius: 0px;
+    color: aliceblue;
+}
+main ul {
+    background-color: white;
+}
